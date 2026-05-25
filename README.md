@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on admin page for a feature rich e-commerce webiste<br><br>🌱 I’m currently learning AI/ML<br><br>💬 Ask me about Full-Stack development with cloud solutions<br><br>📫 How to reach me khalil.aljamil2004@gmail.com
+🔭 I’m currently working on admin page for a feature rich e-commerce webiste<br><br>🌱 I’m currently learning AI/ML<br><br>💬 Ask me about Full-Stack development with cloud solutions<br><br>📫 How to reach me khalil@aljamil.org
 
 
 <h3 align="left">Connect with me:</h3>
